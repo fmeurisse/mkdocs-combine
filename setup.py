@@ -17,7 +17,7 @@ setup(
     name='mkdocs-combine',
 
     # Versions should comply with PEP440.
-    version='0.4.0.0',
+    version='0.4.0.1',
 
     description='Combines a MkDocs Markdown site into a single Markdown file',
 
